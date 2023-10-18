@@ -1,0 +1,44 @@
+{
+    "/": {
+        "it": "interpretazione-da-remoto-rafiky-connect",
+        "en": "remote-simultaneous-interpretation-rafiky",
+        "fr": "interprétation-simultanée-à-distance-rafiky",
+        "de": "fernsimultandolmetschen-rafiky"
+    },
+    "integrazione-microsoft-teams": {
+        "it": "integrazione-microsoft-teams",
+        "en": "integration-microsoft-teams",
+        "fr": "intégration-microsoft-teams",
+        "de": "integration-microsoft-teams"
+    },
+    "interpretariato-in-lingua-dei-segni-new": {
+        "it": "interpretariato-in-lingua-dei-segni-new",
+        "en": "new-sign-language-interpreting",
+        "fr": "nouvelle-interprétation-en-langue-des-signes",
+        "de": "dolmetschen-in-der-neuen-gebardensprache"
+    },
+    "interpreti-a-distanza": {
+        "it": "interpreti-a-distanza",
+        "en": "remote-interpreters",
+        "fr": "interprètes-à-distance",
+        "de": "derndolmetscher"
+    },
+    "rafiky-xp": {
+        "it": "rafiky-xp",
+        "en": "rafiky-xp",
+        "fr": "rafiky-xp",
+        "de": "rafiky-xp"
+    },
+    "rafiky-integration":{
+        "it": "rafiky-integration",
+        "en": "rafiky-integration",
+        "fr": "rafiky-integration",
+        "de": "rafiky-integration"
+    },
+    "rafiky-services-intermediate-page-duplicate":{
+        "it": "rafiky-services-intermediate-page-duplicate",
+        "en": "rafiky-services-intermediate-page-duplicate",
+        "fr": "rafiky-services-intermediate-page-duplicate",
+        "de": "rafiky-services-intermediate-page-duplicate"
+    }
+}

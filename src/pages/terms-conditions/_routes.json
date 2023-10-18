@@ -1,0 +1,33 @@
+{
+    "/": {
+        "it": "termini-condizioni",
+        "en": "terms-conditions",
+        "fr": "termes-et-conditions",
+        "de": "terms-bedingungen"
+    },
+    "cookies-policy": {
+        "it": "politica-sui-cookie",
+        "en": "cookies-policy",
+        "fr": "politique-en-matière-de-cookies",
+        "de": "cookie-richtlinie"
+    },
+    "privacy-policy": {
+        "it": "politica-della-privacy",
+        "en": "privacy-policy",
+        "fr": "politique-de-confidentialité",
+        "de": "Datenschutzrichtlinie"
+    },
+    "rescheduling-cancellation-and-refund-policy": {
+        "it": "riprogrammazione-politica-di-cancellazione-e-rimborso",
+        "en": "rescheduling-cancellation-and-refund-policy",
+        "fr": "politique-d-annulation-et-de-remboursement-de-reprogrammation",
+        "de": "umbuchungs-stornierungs-und-ruckerstattungsrichtlinien"
+    },
+    "rinegoziazione-cancellazione-e-rimborso-politica":{
+        "it": "rinegoziazione-cancellazione-e-rimborso-politica",
+        "en": "renegotiation-cancellation-and-refund-policy",
+        "fr": "Politique-de-renégociation-annulation-et-de-remboursement",
+        "de": "neuverhandlung-stornierung-und-ruckerstattung"
+    }
+    
+}

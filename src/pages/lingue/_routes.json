@@ -1,0 +1,44 @@
+{
+    "/": {
+        "it": "lingue",
+        "en": "languages",
+        "fr": "langues",
+        "de": "sprachen"
+    },
+    "interpretariato-in-cinese-interpreti-da-remoto": {
+        "it": "interpretariato-in-cinese-interpreti-da-remoto",
+        "en": "interpreting-into-chinese-interpret-remotely",
+        "fr": "interpreter-vers-le-chinois-interpreter-a-distance",
+        "de": "dolmetschen-ins-Chinesisch-aus-der-ferne-dolmetschen"
+    },
+    "interpretariato-in-francese-interpretariato-a-distanza": {
+        "it": "interpretariato-in-francese-interpretariato-a-distanza",
+        "en": "french-interpreting-remote-interpreting",
+        "fr": "interprétariat-francais-interpretation-a-distance",
+        "de": "franzosisch-dolmetschen-ferndolmetschen"
+    },
+    "interpretariato-in-inglese-americano": {
+        "it": "interpretariato-in-inglese-americano",
+        "en": "american-english-interpreting",
+        "fr": "interprétariat-américain-anglais",
+        "de": "amerikanisch-englisch-dolmetschen"
+    },
+    "interpretariato-in-inglese-britannico": {
+        "it": "interpretariato-in-inglese-britannico",
+        "en": "interpreting-into-british-english",
+        "fr": "interprétariat-vers-l-anglais-britannique",
+        "de": "dolmetschen-ins-britische-englisch"
+    },
+    "interpretariato-in-spagnolo-interpreti-a-distanza": {
+        "it": "interpretariato-in-spagnolo-interpreti-a-distanza",
+        "en": "interpreting-in-spanish-interpreter-at-a-distance",
+        "fr": "interprétariat-en-espagnol-interprète-a-distance",
+        "de": "dolmetschen-auf-spanisch-ferndolmetschen"
+    },
+    "nterpretariato-in-russo": {
+        "it": "nterpretariato-in-russo",
+        "en": "ninterpreting-into-russian",
+        "fr": "ninterprétation-vers-le-russe",
+        "de": "ninterdolmetschen-in-russisch"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "/": {
+        "it": "servizi",
+        "en": "services",
+        "fr": "prestations-de-service",
+        "de": "dienstleistungen"
+    },
+    "agenzia-di-interpretariato-in-tutta-italia": {
+        "it": "agenzia-di-interpretariato-in-tutta-italia",
+        "en": "agency-of-interpreting-in-all-italy",
+        "fr": "agence-dinterprétation-dans-toute-lItalie",
+        "de": "dolmetscheragentur-in-ganz-Italien"
+    },
+    "interpretariato-simultaneo": {
+        "it": "interpretariato-simultaneo",
+        "en": "simultaneous-interpreting",
+        "fr": "interpretation-simultanee",
+        "de": "simultandolmetschen"
+    },
+    "servizi-di-interpretariato": {
+        "it": "servizi-di-interpretariato",
+        "en": "interpreting-services",
+        "fr": "services-dinterpretation",
+        "de": "dolmetscherdienste"
+    },
+    "servizi-di-traduzione-simultanea": {
+        "it": "servizi-di-traduzione-simultanea",
+        "en": "simultaneous-translation-services",
+        "fr": "services-de-traduction-simultanée",
+        "de": "simultanubersetzungsdienste"
+    },
+    "video-web-conferencing": {
+        "it": "video-web-conferencing",
+        "en": "video-web-conferencing",
+        "fr": "video-web-conference",
+        "de": "video-web-conferencing"
+    }
+}

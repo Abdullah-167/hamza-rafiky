@@ -1,0 +1,20 @@
+{
+    "/": {
+        "it": "zona-partner",
+        "en": "partner-zone",
+        "fr": "zone-partenaire",
+        "de": "partnerzone"
+    },
+    "agenzie-di-noleggio-attrezzature": {
+        "it": "agenzie-di-noleggio-attrezzature",
+        "en": "equipment-rental-agencies",
+        "fr": "agences-de-location-de-matériel",
+        "de": "ausrustungsverleihagenturen"
+    },
+    "rafiky-agenzieditraduzione": {
+        "it": "rafiky-agenzieditraduzione",
+        "en": "rafiky-translation-agencies",
+        "fr": "agences-de-traduction-rafiky",
+        "de": "rafiky-ubersetzungsagenturen"
+    }
+}

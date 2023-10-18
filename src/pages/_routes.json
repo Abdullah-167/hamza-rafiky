@@ -1,0 +1,38 @@
+{
+    "contattaci": {
+        "it": "contattaci",
+        "en": "contact-us",
+        "fr": "contactez-nous",
+        "de": "kontaktiere-uns"
+    },
+    "come-funziona": {
+        "it": "come-funziona",
+        "en": "how-does-it-work",
+        "fr": "comment-ca-marche",
+        "de": "wie-funktioniert-es"
+    },
+    "chi-siamo": {
+        "it": "chi-siamo",
+        "en": "who-we-are",
+        "fr": "qui-nous-sommes",
+        "de": "wer-wir-sind"
+    },
+    "casi-duso": {
+        "it": "casi-duso",
+        "en": "use-cases",
+        "fr": "cas-d-utilisation",
+        "de": "anwendungsfalle"
+    },
+    "richiesta-preventivo": {
+        "it": "richiesta-preventivo",
+        "en": "quotation-request",
+        "fr": "demande-de-devis",
+        "de": "angebotsanforderung"
+    },
+    "thank-you": {
+        "it": "thank-you-it",
+        "en": "thank-you-en",
+        "fr": "thank-you-fr",
+        "de": "thank-you-de"
+    }
+}

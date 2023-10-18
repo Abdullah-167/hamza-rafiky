@@ -1,0 +1,44 @@
+{
+    "/": {
+        "it": "faq",
+        "en": "faq",
+        "fr": "faq",
+        "de": "faq"
+    },
+    "capacita-e-caratteristiche":{
+        "it": "capacita-e-caratteristiche",
+        "en": "capacity-and-features",
+        "fr": "capacite-et-fonctionnalites",
+        "de": "kapazitat-und-funktionen"
+    },
+    "internet-e-wifi":{
+        "it": "internet-e-wi-fi",
+        "en": "internet-and-wifi",
+        "fr": "internet-et-wi-fi",
+        "de": "internet-und-wlan"
+    },
+    "interpreti":{
+        "it": "interpreti",
+        "en": "performers",
+        "fr": "interpretes",
+        "de": "darsteller"
+    },
+    "apps":{
+        "it": "app",
+        "en": "apps",
+        "fr": "applications",
+        "de": "apps"
+    },
+    "partecipanti":{
+        "it": "partecipanti",
+        "en": "participants",
+        "fr": "intervenantes",
+        "de": "teilnehmer"
+    },
+    "attrezzatura-tecnica":{
+        "it": "attrezzatura-tecnica",
+        "en": "technical-equipment",
+        "fr": "equipement-technique",
+        "de": "technisches-equipment"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "/": {
+        "it": "case-studies",
+        "en": "case-studies",
+        "fr": "case-studies",
+        "de": "anwendungsfalle"
+    },
+    "case-study-novartis-interpretariato-da-remoto":{
+        "it": "case-study-novartis-interpretariato-da-remoto",
+        "en": "case-study-novartis-remote-interpreting",
+        "fr": "etude-de-cas-novartis-interprétation-a-distance",
+        "de": "fallstudie-novartis-ferndolmetschen"
+    },
+    "case-study-redbull-interpretazione-simultanea-da-remoto":{
+        "it": "case-study-redbull-interpretazione-simultanea-da-remoto",
+        "en": "case-study-redbull-interpretazione-simultanea-da-remoto",
+        "fr": "etude-de-cas-redbull-simultanee-interpretation-a-distance",
+        "de": "fallstudie-redbull-simultandolmetschen-ferndolmetschen"
+    },
+    "case-study-volkswagen-interpretariato-da-remoto":{
+        "it": "case-study-volkswagen-interpretariato-da-remoto",
+        "en": "case-study-volkswagen-interpretariato-da-remoto",
+        "fr": "case-study-volkswagen-interpretariato-da-remoto",
+        "de": "case-study-volkswagen-interpretariato-da-remoto"
+    }
+}
